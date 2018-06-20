@@ -1,2 +1,4 @@
 This is a test file
+ Inserted line 2018-06-20 mmendez-anahuac
 with two lines
+ Appended line 2018-06-20 mmendez-anahuac
